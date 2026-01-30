@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+conda.datamining/
+.data_analysis/
+data_analysis/
+.Rproj.user
+.idea/
+anaconda_projects/
+.ipynb_checkpoints/
+.virtual_documents/
+.Rhistory
+anaconda_projects/db/
+anaconda_projects/
+Tarea2\.ipynb_checkpoints/
+.Rhistory
